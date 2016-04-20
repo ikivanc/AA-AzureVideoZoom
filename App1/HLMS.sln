@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMLS.Web", "HMLS.Web\HMLS.Web.csproj", "{CF299E43-488E-400B-8E5D-2745666FB928}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLMS.Web", "HMLS.Web\HLMS.Web.csproj", "{CF299E43-488E-400B-8E5D-2745666FB928}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLMS.HL", "HLMS.HL\HLMS.HL.csproj", "{C1AE9BDE-C308-4EEE-A168-C95368499053}"
 EndProject
